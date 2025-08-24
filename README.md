@@ -24,6 +24,7 @@ This repository contains a production-ready Python script to monitor SSL certifi
 
 ## Files
 - `ssl_checker.py` → Main Python script
+- README.md file for implementation
 
 ---
 
